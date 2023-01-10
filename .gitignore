@@ -1,0 +1,10 @@
+out/
+.idea/
+*.iml
+*.class
+*.h
+*.dylib
+*.so
+*.dll
+*.o
+target/
